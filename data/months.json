@@ -1,0 +1,18 @@
+[
+  {
+    "month": "2026-08",
+    "year": 2026,
+    "month_num": 8,
+    "date_start": "2026-08-01",
+    "date_stop": "2026-08-31",
+    "spend": 780.49,
+    "link_clicks": 237,
+    "cpc": 3.293,
+    "ctr": 0.956,
+    "impressions": 24785,
+    "cpm": 31.49,
+    "primary_count": 31,
+    "primary_cost": 25.18,
+    "conversion_rate": 13.08
+  }
+]
