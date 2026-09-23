@@ -13,11 +13,9 @@
       "cpm": 35.63,
       "campaign_id": "52569927093691",
       "campaign_name": "TAS - Recruiting - Instant Form - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 9,
+      "primary_cost": 13.6,
+      "conversion_rate": 18.75
     },
     {
       "week": "KW33",
@@ -32,10 +30,8 @@
       "cpm": 8.0,
       "campaign_id": "52567552572891",
       "campaign_name": "Test - TAS - Recruiting - Website",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
       "conversion_rate": 0.0
     },
     {
@@ -51,11 +47,9 @@
       "cpm": 39.13,
       "campaign_id": "52569926805891",
       "campaign_name": "Test - TAS - Recruiting - Website - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 2,
+      "primary_cost": 58.98,
+      "conversion_rate": 6.452
     },
     {
       "week": "KW34",
@@ -70,11 +64,9 @@
       "cpm": 27.5,
       "campaign_id": "52569927093691",
       "campaign_name": "TAS - Recruiting - Instant Form - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 6,
+      "primary_cost": 24.71,
+      "conversion_rate": 14.634
     },
     {
       "week": "KW34",
@@ -89,10 +81,8 @@
       "cpm": 34.79,
       "campaign_id": "52569926805891",
       "campaign_name": "Test - TAS - Recruiting - Website - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
       "conversion_rate": 0.0
     },
     {
@@ -108,11 +98,9 @@
       "cpm": 27.64,
       "campaign_id": "52569927093691",
       "campaign_name": "TAS - Recruiting - Instant Form - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 9,
+      "primary_cost": 22.43,
+      "conversion_rate": 14.754
     },
     {
       "week": "KW35",
@@ -127,10 +115,8 @@
       "cpm": 43.99,
       "campaign_id": "52569926805891",
       "campaign_name": "Test - TAS - Recruiting - Website - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
       "conversion_rate": 0.0
     },
     {
@@ -146,11 +132,9 @@
       "cpm": 31.42,
       "campaign_id": "52569927093691",
       "campaign_name": "TAS - Recruiting - Instant Form - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 12,
+      "primary_cost": 17.74,
+      "conversion_rate": 17.91
     },
     {
       "week": "KW37",
@@ -165,11 +149,9 @@
       "cpm": 30.23,
       "campaign_id": "52569927093691",
       "campaign_name": "TAS - Recruiting - Instant Form - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 7,
+      "primary_cost": 14.81,
+      "conversion_rate": 17.949
     }
   ],
   "months": [
@@ -187,10 +169,8 @@
       "cpm": 21.2,
       "campaign_id": "52567445168091",
       "campaign_name": "TAS - Recruiting - Instant Form",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
       "conversion_rate": 0.0
     },
     {
@@ -207,11 +187,9 @@
       "cpm": 29.22,
       "campaign_id": "52569927093691",
       "campaign_name": "TAS - Recruiting - Instant Form - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 29,
+      "primary_cost": 17.38,
+      "conversion_rate": 17.791
     },
     {
       "month": "2026-08",
@@ -227,10 +205,8 @@
       "cpm": 7.5,
       "campaign_id": "52567552572891",
       "campaign_name": "Test - TAS - Recruiting - Website",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
       "conversion_rate": 0.0
     },
     {
@@ -247,11 +223,9 @@
       "cpm": 36.91,
       "campaign_id": "52569926805891",
       "campaign_name": "Test - TAS - Recruiting - Website - Copy",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
-      "conversion_rate": 0.0
+      "primary_count": 2,
+      "primary_cost": 137.24,
+      "conversion_rate": 2.778
     }
   ]
 }
